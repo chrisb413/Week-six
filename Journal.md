@@ -17,6 +17,8 @@
 
 - Lastly i took the text and created a mapjs map.  I ordered it by location and put it in chronical order.  Purpose for using the map was also just a proof of concept/knowledge as opposed to being super useful.  The text would breifly mention a event taking place in the world, however each of these diary enteries are only a few weeks/months apart from one-another.
 
+MAP -->  https://uploads.knightlab.com/storymapjs/30672abfcaa8fa5394e0b945c858f892/george-orwell-diaries/index.html
+
 
 # Reflection Question: #
 In your journal.md for this week, share the results of your explorations. Also, think about this: 
